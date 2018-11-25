@@ -1,0 +1,7 @@
+A:\Учеба Манько Н.Г\C#.net\Домашние задания\HW3\HW3_2\bin\Debug\HW3_2.exe.config
+A:\Учеба Манько Н.Г\C#.net\Домашние задания\HW3\HW3_2\bin\Debug\HW3_2.exe
+A:\Учеба Манько Н.Г\C#.net\Домашние задания\HW3\HW3_2\bin\Debug\HW3_2.pdb
+A:\Учеба Манько Н.Г\C#.net\Домашние задания\HW3\HW3_2\obj\Debug\HW3_2.csprojAssemblyReference.cache
+A:\Учеба Манько Н.Г\C#.net\Домашние задания\HW3\HW3_2\obj\Debug\HW3_2.csproj.CoreCompileInputs.cache
+A:\Учеба Манько Н.Г\C#.net\Домашние задания\HW3\HW3_2\obj\Debug\HW3_2.exe
+A:\Учеба Манько Н.Г\C#.net\Домашние задания\HW3\HW3_2\obj\Debug\HW3_2.pdb
