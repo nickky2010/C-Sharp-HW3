@@ -43,4 +43,3 @@
 
 ![Alt text](/Task/Image/1.PNG?raw=true "Гонка")
 
-![Alt text](/Task/Image/2.PNG?raw=true "Поломка")
